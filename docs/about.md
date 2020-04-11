@@ -1,4 +1,4 @@
 
 this is content
 
-[back to startpage](index.markdown)
+[back to startpage](index.md)
